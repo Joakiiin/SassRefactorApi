@@ -1,0 +1,66 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bin/
+obj/
+publish/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vs/
+
+# Visual Studio temporary files
+.vscode/
+.vs/
+.idea/
+
+# Rider
+.idea/
+
+# Rider and ReSharper files
+*.DotSettings
+*.DotSettings.user
+
+# Logs
+*.log
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+
+# Configuration files
+appsettings.json
+appsettings.*.json
+# If you have secrets in your appsettings
+# secrets.json
+
+# Temporary files
+*.tmp
+*.temp
+
+# Other files
+*.db
+*.db-journal
+*.jfm
+
+# Others
+*.cache
+*.zip
+*.tar.gz
+*.tgz
+*.tar
+*.gz
+*.gzip
+
+# Ignore user secrets
+secrets.json
+
+# Visual Studio Code settings
+.vscode/
+.history/

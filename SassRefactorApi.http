@@ -1,0 +1,6 @@
+@SassRefactorApi_HostAddress = http://localhost:5261
+
+GET {{SassRefactorApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
